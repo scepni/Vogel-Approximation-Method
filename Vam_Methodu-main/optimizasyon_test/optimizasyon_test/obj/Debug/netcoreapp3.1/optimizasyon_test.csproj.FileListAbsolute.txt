@@ -1,0 +1,68 @@
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.exe
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.deps.json
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.json
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.dev.json
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.AssemblyReference.cache
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.degerler.resources
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.Form1.resources
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.GenerateResource.cache
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfoInputs.cache
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfo.cs
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\sulta\source\repos\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.genruntimeconfig.cache
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.exe
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.deps.json
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.json
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.dev.json
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.AssemblyReference.cache
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.degerler.resources
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.Form1.resources
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.GenerateResource.cache
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfoInputs.cache
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfo.cs
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.CoreCompileInputs.cache
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\mervy\OneDrive\Masaüstü\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.genruntimeconfig.cache
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.exe
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.deps.json
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.json
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.dev.json
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.AssemblyReference.cache
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.degerler.resources
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.Form1.resources
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.GenerateResource.cache
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfoInputs.cache
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfo.cs
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.CoreCompileInputs.cache
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\cepni\Desktop\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.genruntimeconfig.cache
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.exe
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.deps.json
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.json
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.runtimeconfig.dev.json
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\bin\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.AssemblyReference.cache
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.degerler.resources
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.Form1.resources
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.GenerateResource.cache
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfoInputs.cache
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.AssemblyInfo.cs
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.csproj.CoreCompileInputs.cache
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.dll
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.pdb
+C:\Users\cepni\Desktop\Güncel Ödevler\Vam_Methodu-main\optimizasyon_test\optimizasyon_test\obj\Debug\netcoreapp3.1\optimizasyon_test.genruntimeconfig.cache
